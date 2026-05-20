@@ -80,18 +80,16 @@ Interests  : Web App Security, Network Pentesting, Red Teaming
 
 ---
 
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishant-sahu025/">
+  <a href="https://www.linkedin.com/in/nitinnirmalkar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/ishacker025">
+  <a href="https://tryhackme.com/p/rootmelody">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://github.com/ishant025">
+  <a href="https://github.com/rootmelody">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -99,9 +97,5 @@ Interests  : Web App Security, Network Pentesting, Red Teaming
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishant025&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⚡ "The quieter you become, the more you are able to hear." — Kali Linux</i>
+  <i>⚡ "Rooted in silence."</i>
 </p>
