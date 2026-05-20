@@ -46,7 +46,7 @@ Interests  : Web App Security, Network Pentesting, Red Teaming
 
 ---
 
-## 🛠️ Arsenal (Tools & Skills)
+## 🛠️ Tools & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -73,8 +73,8 @@ Interests  : Web App Security, Network Pentesting, Red Teaming
 ## 📜 Certifications & Learning Paths
 
 - 🔐 TryHackMe — Jr Penetration Tester Path
-- 🌐 TryHackMe — Web Fundamentals
-- 🐧 TryHackMe — Linux Fundamentals
+- 🌐 TryHackMe — Security 101
+- 🐧 TryHackMe — Pre Security
 - 🛡️ TryHackMe — Offensive Security
 - 🏅 GSSoC'24 Contributor
 
