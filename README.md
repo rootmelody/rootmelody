@@ -18,7 +18,7 @@
 
 Name       : Nitin Nirmalkar
 Location   : Somewhere on earth
-Education  : B.Tech CSE Cybersecurity & Digital Forensics
+Education  : B.Tech CSE Cybersecurity and Digital Forensics
 Role       : Aspiring Ethical Hacker | Penetration Tester
 Interests  : Web App Security, Network Pentesting, Red Teaming
 ```
