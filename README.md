@@ -17,11 +17,10 @@
 └─$ cat /etc/profile
 
 Name       : Ishant Sahu
-Location   : Raipur, Chhattisgarh 🇮🇳
-Education  : Pre-Final Year @ KK Modi University
+Location   : Somewhere on earth
+Education  : B.Tech CSE Cybersecurity & Digital Forensics
 Role       : Aspiring Ethical Hacker | Penetration Tester
-Interests  : Web App Security, Network Pentesting, CTFs, OSINT
-Currently  : Sharpening offensive security skills on TryHackMe
+Interests  : Web App Security, Network Pentesting, Red Teaming
 ```
 
 ---
@@ -30,20 +29,20 @@ Currently  : Sharpening offensive security skills on TryHackMe
 
 <p align="center">
   <a href="https://tryhackme.com/p/ishacker025">
-    <img src="https://img.shields.io/badge/TryHackMe-ishacker025-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-    <img src="https://img.shields.io/badge/Level-0xD%20LEGEND-00ff41?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Top-2%25-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/TryHackMe-rootmelody-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/Level-0x9%20MAGE-00ff41?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Top-5%25-red?style=for-the-badge" />
   </a>
 </p>
 
 | Metric | Value |
 |--------|-------|
-| 🏅 Rank | **Top 2%** |
-| 🎖️ Level | **0xD [LEGEND]** |
-| 🔥 Streak | **387 Days** |
-| 🏠 Rooms Completed | **233** |
-| 🎯 Points | **31,382** |
-| 🛡️ Badges | **24** |
+| 🏅 Rank | **Top 5%** |
+| 🎖️ Level | **[0x9][MAGE]** |
+| 🔥 Streak | **337 Days** |
+| 🏠 Rooms Completed | **107** |
+| 🎯 Points | **10,401** |
+| 🛡️ Badges | **21** |
 
 ---
 
