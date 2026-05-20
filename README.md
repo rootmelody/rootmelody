@@ -10,13 +10,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```bash
 ┌──(ishant025㉿kali)-[~]
 └─$ cat /etc/profile
 
-Name       : Ishant Sahu
+Name       : Nitin Nirmalkar
 Location   : Somewhere on earth
 Education  : B.Tech CSE Cybersecurity & Digital Forensics
 Role       : Aspiring Ethical Hacker | Penetration Tester
