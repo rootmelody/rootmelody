@@ -72,11 +72,12 @@ Interests  : Web App Security, Network Pentesting, Red Teaming
 
 ## 📜 Certifications & Learning Paths
 
-- 🔐 TryHackMe — Jr Penetration Tester Path
-- 🌐 TryHackMe — Security 101
-- 🐧 TryHackMe — Pre Security
-- 🛡️ TryHackMe — Offensive Security
-- 🏅 GSSoC'24 Contributor
+- 🧪 TryHackMe — Jr Penetration Tester Path
+- 🌐 TryHackMe — Security 101 Path
+- 🖥️ TryHackMe — Pre Security Path
+- 🛡️ Cisco — Cybersecurity Essentials
+- 🔐 NPTEL — Cryptography and Network Security
+- 👨‍💻 NPTEL — Ethical Hacking
 
 ---
 
