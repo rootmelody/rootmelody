@@ -13,7 +13,7 @@
 ## About Me
 
 ```bash
-┌──(rootmelody㉿kali)-[~]
+┌──(rootmelody㉿kali)—[~]
 └─$ cat /etc/profile
 
 Name       : Nitin Nirmalkar
